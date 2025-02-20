@@ -31,3 +31,6 @@ Additionally, a **slicer filter** allows users to refine the data for a more det
 Here’s a screenshot of the **Power BI** dashboard:  
 
 ![image](https://github.com/user-attachments/assets/d2732963-062f-48de-9b3b-21d7354d0910)
+
+You can explore the interactive **Power BI dashboard** here:  
+[🔗 View Dashboard](https://app.powerbi.com/links/T89IGC8Axn?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
